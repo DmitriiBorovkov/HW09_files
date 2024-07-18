@@ -17,7 +17,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class ReadFilesTest {
 
-    private ClassLoader classLoader = ReadFilesTest.class.getClassLoader();
+    private final ClassLoader classLoader = ReadFilesTest.class.getClassLoader();
 
     @DisplayName("Проверка полей в файле формата json")
     @Test
