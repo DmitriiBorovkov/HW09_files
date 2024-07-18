@@ -1,0 +1,9 @@
+{
+  "title": "fried eggs",
+  "number": 135,
+  "ingredients": {
+    "firstIngredient": "eggs",
+    "secondIngredient": "bacon",
+    "thirdIngredient": "cheese"
+  }
+}
