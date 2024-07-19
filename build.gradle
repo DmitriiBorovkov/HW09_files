@@ -7,9 +7,7 @@ repositories {
 }
 
 dependencies {
-    testImplementation "com.codeborne:selenide:7.3.3"
     testImplementation "org.junit.jupiter:junit-jupiter:5.10.3"
-    testImplementation "com.github.javafaker:javafaker:1.0.2"
     testImplementation 'org.slf4j:slf4j-simple:2.0.7'
     testImplementation group: 'commons-io', name: 'commons-io', version: '2.16.1'
     testImplementation group: 'com.codeborne', name: 'pdf-test', version: '1.5.0'
